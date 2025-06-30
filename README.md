@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
-=======
-# Dashboard
->>>>>>> a27b761c3f65488f9be4f02750f6ea4d3fd1af95
+# 📊 Personalized Content Dashboard
+A **dynamic, user-centric platform** to track and interact with personalized news, recommendations, and social posts — all in one engaging dashboard.  
+Built with **React**, **Next.js**, **TypeScript**, **Redux Toolkit**, and modern testing tools.
