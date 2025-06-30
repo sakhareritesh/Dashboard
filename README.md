@@ -4,3 +4,8 @@ Built with **React**, **Next.js**, **TypeScript**, **Redux Toolkit**, and modern
 
 # Video
 https://youtu.be/pGtnjqUhQEw
+#How to Run
+to install the packages 
+(npm install) OR (npm install --legacy-peer-deps) for fast instalalltion of Packages
+##To run
+npm run dev 
