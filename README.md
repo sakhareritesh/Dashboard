@@ -13,3 +13,5 @@ npm install
 
 # OR if you run into peer dependency issues, use:
 npm install --legacy-peer-deps
+# to RUN
+npm run dev
