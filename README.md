@@ -14,3 +14,10 @@ npm install
 npm install --legacy-peer-deps
 # to RUN
 npm run dev
+
+##🛠️ **Tech Stack**
+
+- **Frontend:** React, Next.js, TypeScript
+- **State Management:** Redux Toolkit, RTK Query
+- **UI & Animations:** Tailwind CSS, Framer Motion, React DnD
+- **Testing:** Jest, React Testing Library, Cypress/Playwright
