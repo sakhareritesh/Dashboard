@@ -26,6 +26,16 @@ This project uses a **modern frontend stack** for building a dynamic, personaliz
     -   [Genkit](https://firebase.google.com/docs/genkit) for building production-ready AI flows.
     -   [Google Gemini](https://ai.google.dev/) for image generation.
 -   **End-to-End Testing:** [Playwright](https://playwright.dev/) for robust, automated browser testing.
+
+  ## Key Features
+
+-   **Secure User Authentication:** Full signup, login, and profile management flow using Firebase Authentication.
+-   **Personalized Feeds:** A dynamic dashboard that aggregates content from multiple external APIs (NewsAPI, TMDB, Spotify).
+-   **Individual User Data:** Each user has their own separate list of favorites, securely stored in Firebase Firestore.
+-   **Search & Filtering:** Users can search for specific content and filter by category (Movies, Music, News, etc.).
+-   **AI-Powered Avatars:** Generate a unique profile picture using Genkit and Google's Gemini image generation models.
+-   **Responsive Design:** A modern, mobile-first UI built with ShadCN UI and Tailwind CSS.
+-   **End-to-End Tested:** User flows are verified with Playwright to ensure reliability.
   
 # How to Run
 Run **one** of the following commands:
