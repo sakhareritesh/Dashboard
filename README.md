@@ -45,5 +45,6 @@ npm install
 npm install --legacy-peer-deps
 # to RUN
 npm run dev
+open the app by clicking or running  [http://localhost:3000]
 
 
